@@ -5,7 +5,6 @@
 * [Desafio](#desafio)
 * [Techs](#techs)
 * [Como começar](#como-começar)
-* [Compartilhe](#compartilhe)
 
 # Desafio
 Seu desafio é criar o backend para um sistema de gerenciamento de uma biblioteca!
@@ -28,9 +27,6 @@ Seu desafio é criar o backend para um sistema de gerenciamento de uma bibliotec
 4 - Compartilhe seu resultado com a comunidade! #devchallenge
 
 
-# Compartilhe!
-Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
-Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge ou marcando nosso perfil @devchallenge!<br>
 
 
 
