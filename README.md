@@ -18,7 +18,9 @@ Seu desafio é criar o backend para um sistema de gerenciamento de uma bibliotec
 
 
 # Techs: 
-- Tecnologia que preferir :)
+- Nodejs
+- Typescript
+- Mongodb
 
 # Como começar:
 1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
